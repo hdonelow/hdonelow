@@ -5,9 +5,8 @@
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/hdonelow/Failed-RDP-attack-showcase)
   - [Disk Wiping (Disk Wiping Utility)](https://github.com/hdonelow/Disk-Wipe-Utility-/tree/main)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/hdonelow/PowerShell-FIM-EmailAlerts)
-- <b>C# (TBD)</b>
+- <b> (TBD)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
