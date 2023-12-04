@@ -6,7 +6,7 @@
   - [InfoSec Program Development](https://github.com/hdonelow/-Comprehensive-Information-Security-Program-Development)
  
 - <b>Python</b>
-  - [Automated Patch Management)](https://github.com/hdonelow]https://github.com/hdonelow/Automated-Patch-Management)
+  - [Automated Patch Management](https://github.com/hdonelow]https://github.com/hdonelow/Automated-Patch-Management)
   
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/hdonelow/Failed-RDP-attack-showcase)
